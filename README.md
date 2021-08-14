@@ -1,16 +1,6 @@
-# routing_example
+# flutter_navigation_routing
+Flutter navigation course code example for White Cloak Academy
 
-A new Flutter project.
+**FLUTTER NAVIGATION AND ROUTING EXAMPLE**
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This code repository is used as an example for WCA's frontend training program. This is used to teach how to setup and do navigation and routing in Flutter. This uses Navigator 1.0 and Navigator 2.0 (for named routes).
